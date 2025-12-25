@@ -29,5 +29,6 @@ Projeyi yerel ortamınızda çalıştırmak için:
 1. **Repoyu klonlayın:**
    ```bash
    git clone [https://github.com/MustafaGurhan20/Kira-Tahmin.git](https://github.com/MustafaGurhan20/Kira-Tahmin.git)
+   ```
 
    <p align="center"> Mustafa Gürhan tarafından ❤️ ile geliştirildi. </p>
