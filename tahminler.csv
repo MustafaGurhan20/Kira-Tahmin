@@ -1,0 +1,5 @@
+area_m2,rooms,age,floor,building_type,district,predicted_price
+200,1,7,3,detached,A,2182574.3547517397
+200,1,7,3,detached,A,2182574.3547517397
+200,1,10,3,detached,A,2182574.3547517397
+200,3,6,3,detached,B,1571944.9954220315
